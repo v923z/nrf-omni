@@ -10,6 +10,14 @@
   )
 
   (page A4)
+  (title_block
+    (title "nrf-omni footprint")
+    (date 2020-06-08)
+    (rev 1.1)
+    (company "Zoltán Vörös")
+    (comment 1 "The MIT Licence")
+  )
+
   (layers
     (0 F.Cu signal)
     (31 B.Cu signal)
